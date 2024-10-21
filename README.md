@@ -1,5 +1,5 @@
 # Mobile OS Market Share Graph
-Program to display a graph of the mobile OS market share.
+A program to display a graph of the mobile OS market share.
 
 ![Mobile OS Market Share Graph](./screenshots/mobile_os_market_share_graph.webp)
 
